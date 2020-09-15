@@ -9,7 +9,7 @@ Font Awesome  toolkit
 
 
 # credit
-inspired from 
-Javascript Fun: Build a Music Player App!
-developed and teached by
+inspired from  <br />
+Javascript Fun: Build a Music Player App! <br />
+developed and teached by <br />
 Chris Dixon, Web Developer & Online Teacher 
