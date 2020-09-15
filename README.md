@@ -4,7 +4,7 @@
 
 
 # client-side technologies and tools used:
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript <br />
 Font Awesome  toolkit 
 
 
