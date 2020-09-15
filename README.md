@@ -3,6 +3,9 @@
 <img src="./assets/img.png">
 
 
+# client-side technologies and tools used:
+HTML, CSS, JavaScript
+Font Awesome  toolkit 
 
 
 # credit
